@@ -1,3 +1,3 @@
 # peopleServices
 People services
-REad it
+READ ME
