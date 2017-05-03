@@ -1,0 +1,25 @@
+{
+  "name": "people-services",
+  "version": "1.0.0",
+  "description": "Sample service",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroMacias/peopleServices.git"
+  },
+  "keywords": [
+    "REST",
+    "service",
+    "NoSQL",
+    "Database"
+  ],
+  "author": "Pedro Macias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroMacias/peopleServices/issues"
+  },
+  "homepage": "https://github.com/PedroMacias/peopleServices#readme"
+}
