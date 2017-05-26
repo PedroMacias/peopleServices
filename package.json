@@ -4,6 +4,7 @@
   "description": "Sample service",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "npm run test"
   },
   "repository": {
@@ -24,6 +25,7 @@
   "homepage": "https://github.com/PedroMacias/peopleServices#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
     "express": "^4.15.2",
     "request": "^2.81.0"
   }
